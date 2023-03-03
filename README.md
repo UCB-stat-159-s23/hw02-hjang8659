@@ -1,1 +1,3 @@
-This assignment is for me to familiarize using GitHub, creating environment.yml, and creating Binder. The main part of this assignment is me uploading a project that was completed by someone else. There is also a disclaimer at the top of the notebook to ensure that this work is not mine. 
+This assignment is for me to familiarize using GitHub, creating environment.yml, and creating Binder. The main part of this assignment is me uploading a project that was completed by someone else. There is also a disclaimer at the top of the notebook to ensure that this work is not mine. Below is the Binder link to the project.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s23/hw02-hjang8659/HEAD?labpath=%2FLOSC_Event_tutorial.ipynb)
