@@ -3,11 +3,11 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.8
-  - numpy=1.24
-  - matplotlib=3.7
-  - scipy=1.10
-  - h5py=3.8
-  - ipykernel=6.19
-  - decorator=5.1
-prefix: /home/jovyan/site/hw02-hjang8659
+  - python=3.9
+  - ipykernel
+  - decorator==5.1
+  - numpy==1.23
+  - matplotlib==3.5
+  - scipy==1.10
+  - h5py==3.7
+prefix: /home/jovyan/envs/ligo
